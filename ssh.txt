@@ -1,0 +1,5 @@
+ssh -i rezeetpartner.pem ubuntu@18.188.124.231
+
+
+
+https://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@github.com/MajorOjay/partner.git
